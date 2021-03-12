@@ -1,0 +1,8 @@
+# Auto-generated of code
+Listings/
+Objects/
+*.uvgui.*
+*.uvopt
+# Auto-generated of design
+*.pdsbak
+*.workspace
